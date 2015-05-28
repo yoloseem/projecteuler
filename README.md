@@ -9,3 +9,5 @@ My Project Euler solutions in various programming languages
     * Solutions: [Rust](https://github.com/yoloseem/projecteuler/blob/master/0002/0002.rs)
 * Problem 3 - [Largest prime factor](https://projecteuler.net/problem=3)
     * Solutions: [Rust](https://github.com/yoloseem/projecteuler/blob/master/0003/0003.rs)
+* Problem 4 - [Largest palindrome product](https://projecteuler.net/problem=4)
+    * Solutions: [Rust](https://github.com/yoloseem/projecteuler/blob/master/0004/0004.rs)
