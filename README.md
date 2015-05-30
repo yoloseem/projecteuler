@@ -1,4 +1,7 @@
 # projecteuler
+
+![](https://projecteuler.net/profile/yoloseem.png)
+
 My Project Euler solutions in various programming languages
 
 ## Problems
