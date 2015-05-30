@@ -18,3 +18,5 @@ My Project Euler solutions in various programming languages
     * Solutions: [C](https://github.com/yoloseem/projecteuler/blob/master/0005/0005.c)
 * Problem 6 - [Sum square difference](https://projecteuler.net/problem=6)
     * Solutions: [Python](https://github.com/yoloseem/projecteuler/blob/master/0006/0006.py)
+* Problem 7 - [10001st prime](https://projecteuler.net/problem=7)
+    * Solutions: [Python](https://github.com/yoloseem/projecteuler/blob/master/0007/0007.rs)
