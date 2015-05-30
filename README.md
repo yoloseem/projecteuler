@@ -20,5 +20,7 @@ My Project Euler solutions in various programming languages
     * Solutions: [Python](https://github.com/yoloseem/projecteuler/blob/master/0006/0006.py)
 * Problem 7 - [10001st prime](https://projecteuler.net/problem=7)
     * Solutions: [Python](https://github.com/yoloseem/projecteuler/blob/master/0007/0007.rs)
+* Problem 9 - [Smallest multiple](https://projecteuler.net/problem=9)
+    * Solutions: [C](https://github.com/yoloseem/projecteuler/blob/master/0009/0009.c)
 * Problem 10 - [Summation of primes](https://projecteuler.net/problem=10)
     * Solutions: [Rust](https://github.com/yoloseem/projecteuler/blob/master/0010/0010.rs)
