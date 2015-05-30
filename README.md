@@ -11,3 +11,5 @@ My Project Euler solutions in various programming languages
     * Solutions: [Rust](https://github.com/yoloseem/projecteuler/blob/master/0003/0003.rs)
 * Problem 4 - [Largest palindrome product](https://projecteuler.net/problem=4)
     * Solutions: [Rust](https://github.com/yoloseem/projecteuler/blob/master/0004/0004.rs)
+* Problem 5 - [Smallest multiple](https://projecteuler.net/problem=5)
+    * Solutions: [C](https://github.com/yoloseem/projecteuler/blob/master/0005/0005.c)
