@@ -16,3 +16,5 @@ My Project Euler solutions in various programming languages
     * Solutions: [Rust](https://github.com/yoloseem/projecteuler/blob/master/0004/0004.rs)
 * Problem 5 - [Smallest multiple](https://projecteuler.net/problem=5)
     * Solutions: [C](https://github.com/yoloseem/projecteuler/blob/master/0005/0005.c)
+* Problem 6 - [Sum square difference](https://projecteuler.net/problem=6)
+    * Solutions: [Python](https://github.com/yoloseem/projecteuler/blob/master/0006/0006.py)
