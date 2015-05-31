@@ -8,6 +8,7 @@ My Project Euler solutions in various programming languages
 
 * Problem 1 - [Multiples of 3 and 5](https://projecteuler.net/problem=1)
     * Solutions:
+        [C](https://github.com/yoloseem/projecteuler/blob/master/0001/0001.c),
         [Haskell](https://github.com/yoloseem/projecteuler/blob/master/0001/0001.hs),
         [Python](https://github.com/yoloseem/projecteuler/blob/master/0001/0001.py),
         [Rust](https://github.com/yoloseem/projecteuler/blob/master/0001/0001.rs)
