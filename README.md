@@ -24,6 +24,8 @@ My Project Euler solutions in various programming languages
     * Solutions: [C](https://github.com/yoloseem/projecteuler/blob/master/0009/0009.c)
 * Problem 10 - [Summation of primes](https://projecteuler.net/problem=10)
     * Solutions: [Rust](https://github.com/yoloseem/projecteuler/blob/master/0010/0010.rs)
+* Problem 47 - [Prime permutations](https://projecteuler.net/problem=47)
+    * Solutions: [Python](https://github.com/yoloseem/projecteuler/blob/master/0047/0047.py)
 * Problem 49 - [Prime permutations](https://projecteuler.net/problem=49)
     * Solutions: [Python](https://github.com/yoloseem/projecteuler/blob/master/0049/0049.py)
 * Problem 50 - [Consecutive prime sum](https://projecteuler.net/problem=50)
