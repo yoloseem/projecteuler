@@ -1,6 +1,6 @@
 # projecteuler
 
-![](https://projecteuler.net/profile/yoloseem.png)
+![](https://projecteuler.net/profile/yoloseem.png?1)
 
 My Project Euler solutions in various programming languages
 
