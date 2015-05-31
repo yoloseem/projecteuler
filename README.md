@@ -36,3 +36,5 @@ My Project Euler solutions in various programming languages
     * Solutions: [Python](https://github.com/yoloseem/projecteuler/blob/master/0049/0049.py)
 * Problem 50 - [Consecutive prime sum](https://projecteuler.net/problem=50)
     * Solutions: [Python](https://github.com/yoloseem/projecteuler/blob/master/0050/0050.py)
+* Problem 92 - [Square digit chains](https://projecteuler.net/problem=92)
+    * Solutions: [Python](https://github.com/yoloseem/projecteuler/blob/master/0092/0092.py)
