@@ -2,7 +2,7 @@
 
 ![](https://projecteuler.net/profile/yoloseem.png?1)
 
-My Project Euler solutions in various programming languages
+My [Project Euler](https://projecteuler.net/) solutions in various programming languages
 
 ## Problems
 
