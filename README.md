@@ -19,7 +19,7 @@ My Project Euler solutions in various programming languages
 * Problem 6 - [Sum square difference](https://projecteuler.net/problem=6)
     * Solutions: [Python](https://github.com/yoloseem/projecteuler/blob/master/0006/0006.py)
 * Problem 7 - [10001st prime](https://projecteuler.net/problem=7)
-    * Solutions: [Python](https://github.com/yoloseem/projecteuler/blob/master/0007/0007.rs)
+    * Solutions: [Rust](https://github.com/yoloseem/projecteuler/blob/master/0007/0007.rs)
 * Problem 9 - [Smallest multiple](https://projecteuler.net/problem=9)
     * Solutions: [C](https://github.com/yoloseem/projecteuler/blob/master/0009/0009.c)
 * Problem 10 - [Summation of primes](https://projecteuler.net/problem=10)
